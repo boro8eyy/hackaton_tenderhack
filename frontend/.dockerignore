@@ -1,0 +1,31 @@
+# Git
+.git
+.gitignore
+
+# Dependencies
+node_modules
+
+# Build output
+build
+.svelte-kit
+
+# IDE
+.vscode
+.idea
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env files
+.env*
+
+# Docker
+Dockerfile
+
+# Tests
+tests
+coverage
+
+# Docs
+README.md

@@ -1,0 +1,41 @@
+/* Golos Text Font Family */
+/* 
+   Download fonts from: https://fonts.google.com/specimen/Golos+Text
+   Place the following files in this folder:
+   - GolosText-Regular.woff2
+   - GolosText-Medium.woff2
+   - GolosText-SemiBold.woff2
+   - GolosText-Bold.woff2
+*/
+
+@font-face {
+	font-family: 'Golos Text';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('/fonts/GolosText-Regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Golos Text';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url('/fonts/GolosText-Medium.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Golos Text';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('/fonts/GolosText-SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Golos Text';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('/fonts/GolosText-Bold.woff2') format('woff2');
+}

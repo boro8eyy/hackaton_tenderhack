@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+
+# Docker & Database
+postgres_data/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
